@@ -9,6 +9,7 @@ function Header() {
         name="description"
         content="⚡ Some cool HTML tricks that many developers ignore."
       />
+      <link rel="icon" fetchpriority="high" href="/favicon.ico" />
     </Head>
   );
 }
