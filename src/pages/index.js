@@ -1,6 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
-import React from "react";
 import Header from "@/components/Header";
 
 const tips = [
@@ -51,16 +49,6 @@ export default function Home() {
             ))}
           </tbody>
         </table>
-
-        <Link href="https://www.buymeacoffee.com/daoodaba975" target="_blank">
-          <Image
-            className="rounded-full"
-            src="/lato.png"
-            alt="Buy Me A Coffee"
-            height={51}
-            width={217}
-          />
-        </Link>
       </div>
     </>
   );

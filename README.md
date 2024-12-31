@@ -25,5 +25,3 @@ You can see preview [HERE](https://htmltricks.vercel.app).
 This project is under **[MIT License](LICENSE.md)**.
 
 Enjoy ✌🏽
-
-<a href="https://www.buymeacoffee.com/daoodaba975" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important; border-radius: 10px;" ></a>
